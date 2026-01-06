@@ -120,6 +120,6 @@
 * Professor: [Jongmoo Choi](http://embedded.dankook.ac.kr/~choijm/), [Seehwan Yoo](https://sites.google.com/site/dkumobileos/)
 
 ## Schedule
-* Date: Every Tuesday in January, February
+* Date: Every Wednesday in January, February
 * Time: 14:00 ~ 16:00
 * Place: Dankook University Software ICT Hall Room 304
