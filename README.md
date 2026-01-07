@@ -1,6 +1,4 @@
-# 
-
-# 2026_RocksDB_Study
+# 2026_RocksDB_Study: 희로애락(Rock)
 
 2026 [DKU System Software Lab](https://sslab.dankook.ac.kr/) RocksDB Study
 
