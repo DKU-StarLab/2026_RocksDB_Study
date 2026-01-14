@@ -14,12 +14,15 @@
 | Week 0  | 25-12-30  | ["Kick-off Meeting"](./presentation_file/W0_YongminLee_Kick-off.pdf)                                                                  | Hojin Shin |
 | Week 1 | 26-01-07  | ["Introduction 1"](./presentation_file/W1_YongminLee_Introduction1.pdf)| Yongmin Lee |
 |  |  | ["How to Analyze RocksDB"](./presentation_file/W0_DayeonWee_How_To_Analyze_RocksDB.pdf)| Yongmin Lee & Dayeon Wee |
+| Week 2 | 26-01-14  | ["NoSQL_Database"](./presentation_file/W2_DayeonWee_NoSQL_Database.pdf)| Dayeon Wee |
+|  |  | ["Realated Work"](./presentation_file/W2_DayeonWee_Realated_Work.pdf)| Dayeon Wee |
+|  |  | ["Topics"](./presentation_file/W2_YongminLee_Topics.pdf)| Yongmin Lee |
 
 
 ### Evaluation Presentation
 |        | Date | Presenter                               | Contents |
 | :----- | :------- | :-------------------------------------- | :------- |
-| Week 3 | 26-02-00 |  |  |
+| Week 3 | 26-02-21 |  |  |
 
 
 ## Teams
