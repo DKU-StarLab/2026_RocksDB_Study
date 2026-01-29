@@ -11,7 +11,7 @@
 ### Paper Presentation
 |         | Date      | Content                                                                               | Presenter                               |
 | :------ | :-------- | :------------------------------------------------------------------------------------ | :-------------------------------------- |
-| Week 0  | 25-12-30  | ["Kick-off Meeting"](./presentation_file/W0_YongminLee_Kick-off.pdf)                                                                  | Hojin Shin |
+| Week 0  | 25-12-30  | ["Kick-off Meeting"](./presentation_file/W0_YongminLee_Kick-off.pdf) | Yongmin Lee |
 | Week 1 | 26-01-07  | ["Introduction 1"](./presentation_file/W1_YongminLee_Introduction1.pdf)| Yongmin Lee |
 |  |  | ["How to Analyze RocksDB"](./presentation_file/W0_DayeonWee_How_To_Analyze_RocksDB.pdf)| Yongmin Lee & Dayeon Wee |
 | Week 2 | 26-01-14  | ["NoSQL_Database"](./presentation_file/W2_DayeonWee_NoSQL_Database.pdf)| Dayeon Wee |
@@ -20,13 +20,22 @@
 
 
 ### Evaluation Presentation
-|        | Date | Presenter                               | Contents |
+|        | Date | Contents | Presenter |
 | :----- | :------- | :-------------------------------------- | :------- |
-| Week 3 | 26-02-21 |  |  |
+| Week 3 | 26-01-21 |  | 유연주, 하지원, 김은하 |
+|  |  |  | 박규원, 이우진, 윤치호, 강민수 |
+| Week 4 | 26-01-28 |  | 강호현, 이재열, 김민구, 리저우엔, 최규빈 |
+|  |  |  | 이기윤, 성진욱, 홍사인, 노승아 |
+|  |  |  | 최승열, 이종현, 정다민, 박준서 |
 
 
 ## Teams
 * Student:
+  - 1. 유연주, 하지원, 김은하
+  - 2. 박규원, 이우진, 윤치호, 강민수
+  - 3. 강호현, 이재열, 김민구, 리저우엔, 최규빈
+  - 4. 이기윤, 성진욱, 홍사인, 노승아
+  - 5. 최승열, 이종현, 정다민, 박준서
 
 
 ## Paper & Lecture List
