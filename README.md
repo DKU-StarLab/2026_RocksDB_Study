@@ -123,7 +123,7 @@
 * Previous Study
   - [DKU Leveldb Study, 2022](https://github.com/DKU-StarLab/leveldb-study)
   - [DKU RocksDB Festival, 2021](https://github.com/DKU-StarLab/RocksDB_Festival)
-  - [DKU 1DanRock, 2024](https://github.com/DKU-StarLab/1DanRock)
+  - [DKU 1DanRock, 2025](https://github.com/DKU-StarLab/1DanRock)
 
 
 
