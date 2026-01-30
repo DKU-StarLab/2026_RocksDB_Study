@@ -123,6 +123,9 @@
 * Previous Study
   - [DKU Leveldb Study, 2022](https://github.com/DKU-StarLab/leveldb-study)
   - [DKU RocksDB Festival, 2021](https://github.com/DKU-StarLab/RocksDB_Festival)
+  - [DKU 1DanRock, 2024](https://github.com/DKU-StarLab/1DanRock)
+
+
 
 ## Members
 * Assistant: Yongmin Lee, Dayeon Wee
@@ -131,4 +134,4 @@
 ## Schedule
 * Date: Every Wednesday in January, February
 * Time: 14:00 ~ 16:00
-* Place: Dankook University Software ICT Hall Room 304
+* Place: Dankook University Software ICT Hall Room 306
