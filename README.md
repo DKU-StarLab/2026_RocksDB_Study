@@ -27,12 +27,12 @@
 | Week 4 | 26-01-28 | ["Team3_W4: SkipList & HashTable"](./presentation_file/Team3/Team3_W4.pdf) | 강호현, 이재열, 김민구, 리저우엔, 최규빈 |
 |  |  | ["Team4_W4: Adaptive Compression"](./presentation_file/Team4/Team4_W4.pdf) | 이기윤, 성진욱, 홍사인, 노승아 |
 |  |  | ["Team5_W4: BlobDB & Compaction"](./presentation_file/Team5/Team5_W4.pdf) | 최승열, 이종현, 정다민, 박준서 |
-| Week 5 | 26-02-04 |  | 유연주, 하지원, 김은하 |
+| Week 5 | 26-02-04 | ["Team1_W5: KV separation"](./presentation_file/Team1/Team1_W5.pdf) | 유연주, 하지원, 김은하 |
 |  |  |  | 박규원, 이우진, 윤치호, 강민수 |
-| Week 6 | 26-02-11 |  | 유연주, 하지원, 김은하 |
+| Week 6 | 26-02-11 | ["Team1_W6: KV separation"](./presentation_file/Team1/Team1_W5.pdf) | 유연주, 하지원, 김은하 |
 |  |  |  | 박규원, 이우진, 윤치호, 강민수 |
-|  |  |  | 강호현, 이재열, 김민구, 리저우엔, 최규빈 |
-|  |  |  | 이기윤, 성진욱, 홍사인, 노승아 |
+|  |  | ["Team3_W6: Learned Index"](./presentation_file/Team3/Team3_W6.pdf) | 강호현, 이재열, 김민구, 리저우엔, 최규빈 |
+|  |  | ["Team4_W6: Adaptive Compression"](./presentation_file/Team4/Team4_W6.pdf) | 이기윤, 성진욱, 홍사인, 노승아 |
 |  |  |  | 최승열, 이종현, 정다민, 박준서 |
 
 
